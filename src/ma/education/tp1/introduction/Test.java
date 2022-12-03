@@ -6,7 +6,7 @@ public class Test {
         //  s1.6.En utilisant le mot réservé new, dans la méthode main, instancier les trois objets suivants:
 
         //  s1.6.a.Un objet (o1) en utilisant le constructeur sans paramètres
-        Salle o1 = new Salle();
+        //Salle o1 = new Salle();
 
         //  s1.6.b.Un objet (o2) ayant le nom “Salle Informatique”
         Salle o2 = new Salle("Salle Informatique");
@@ -15,9 +15,9 @@ public class Test {
         Salle o3 = new Salle(2,"Salle des cours");
 
         //  s1.7.Afficher dans la consoles les valeurs des attributs des objets o1, o2 et o3
-        System.out.println("les Informations d'objet o1");
-        System.out.println("id: "+o1.id);
-        System.out.println("nom: "+o1.nom);
+        //System.out.println("les Informations d'objet o1");
+        //System.out.println("id: "+o1.id);
+        //System.out.println("nom: "+o1.nom);
         System.out.println("--------------------------------");
         System.out.println("les Informations d'objet o2");
         System.out.println("id: "+o2.id);

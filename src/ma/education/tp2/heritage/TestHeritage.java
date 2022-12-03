@@ -1,3 +1,5 @@
+package ma.education.tp2.heritage;
+
 import ma.education.tp1.introduction.Salle;
 
 //  s2.5 Créer la classe TestHeritage

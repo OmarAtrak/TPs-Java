@@ -1,5 +1,7 @@
 //  s2.1 Créer la classe fille Laboratoire de la classe mère “ma.education.tp1.introduction.Salle”
 
+package ma.education.tp2.heritage;
+
 import ma.education.tp1.introduction.Salle;
 
 public class Laboratoire extends Salle{

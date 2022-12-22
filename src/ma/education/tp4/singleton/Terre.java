@@ -23,5 +23,4 @@ public class Terre {
             instance = new Terre(distanceToSoleil, surface);
         return instance;
     }
-
 }

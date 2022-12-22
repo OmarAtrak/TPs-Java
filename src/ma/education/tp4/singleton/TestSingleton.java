@@ -23,5 +23,6 @@ public class TestSingleton {
         //  l'objet t1 est le premier objet qu'est crée dans la mémoire
         //  l'objet t2 n'est pas crée mais prendre les valeur de premier objet qui crée
 
+        
     }
 }
